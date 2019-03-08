@@ -1,0 +1,7 @@
+public class BAbdiel {
+  public static void main(string arg[]){
+    system.out.println(" Nama   : Muhammad abdiel *);
+    system.out.println(" Nim    : 17090078 ");
+    system.out.println(" Kelas  : 4B ");
+  }
+ }
